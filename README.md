@@ -1,6 +1,6 @@
 ### Welecom to aiwq2's repo👋😊
 
-![Header](https://github.com/aiwq2/aiwq2/assets/75_AA1h1Vyo.jpg "Header")
+<img src="https://github.com/aiwq2/aiwq2/blob/master/assets/75_AA1h1Vyo.jpg" height="200px">
 
 - 🔭 I’m currently studying in [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/).
 - 🌱 I’m currently learning Recommender system
