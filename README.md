@@ -1,6 +1,6 @@
 ### Welecom to aiwq2's repo👋😊
 
-<img src="https://github.com/aiwq2/aiwq2/blob/master/assets/75_AA1h1Vyo.jpg" height="200px">
+<img src="https://github.com/aiwq2/aiwq2/blob/master/assets/75_AA1h1Vyo.jpg" height="50px">
 
 - 🔭 I’m currently studying in [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/).
 - 🌱 I’m currently learning Recommender system
@@ -23,4 +23,6 @@
 
 - Some of my Repo
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aiwq2&repo=interview-review&show_owner=True)](https://github.com/aiwq2/interview-review) -->
+<a href="https://github.com/aiwq2/interview-review">
 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=aiwq2&repo=interview-review&show_owner=True" width="350px"/>
+<a/>
