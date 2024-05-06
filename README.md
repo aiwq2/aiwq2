@@ -21,8 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aiwq2&show_icons=True&include_all_commits=true&theme=highcontrast" height="180px">
 </a>
 
-- Some of my Repo
+<!-- - Some of my Repo -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aiwq2&repo=interview-review&show_owner=True)](https://github.com/aiwq2/interview-review) -->
-<a href="https://github.com/aiwq2/interview-review">
+<!-- <a href="https://github.com/aiwq2/interview-review">
 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=aiwq2&repo=interview-review&show_owner=True" width="350px"/>
-<a/>
+<a/> -->
